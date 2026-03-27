@@ -1,5 +1,7 @@
 # Atlas Clinical Insights Engine
 
+*Repository: [Interactive_Journaling_AI](https://github.com/namrathamurarikar/Interactive_Journaling_AI)*
+
 Proof-of-concept dashboard for behavioral health programs: turn participant journal text into draft clinical summaries, ASAM dimension mapping, dropout-risk signals, and curriculum ideas aligned to an Atlas-style module catalog.
 
 ## Problem
